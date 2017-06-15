@@ -10,6 +10,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<h2>master</h2>
+<h1>conflict_1</h1>
 </body>
 </html>
