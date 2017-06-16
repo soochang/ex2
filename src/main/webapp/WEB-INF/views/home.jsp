@@ -11,5 +11,7 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <h1>conflict_1</h1>
+
+<p>Git Hub</p>
 </body>
 </html>
